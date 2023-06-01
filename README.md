@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Front-End </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
