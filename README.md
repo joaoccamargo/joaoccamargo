@@ -6,15 +6,15 @@
 
 <h3 align="center"> Front-End </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js" title="HTML5 - CSS3 - JAVASCRIPT"/>
   </a>
 </p>
 
 <h3 align="center"> Back-End </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php,mysql" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,flask,mysql,php" title="JAVA  - SPRING  -  NODEJS  - PYTHON  -  FLASK  -  MYSQL -  PHP"/>
   </a>
 </p>
 <h3 align="center"> Github Stats </h3>
