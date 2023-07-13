@@ -2,19 +2,13 @@
 
 <p align="center">
 - 💬 Ask me about games and new technologies.
+<br>
+- 📚 Analysis and systems development
 </p>
-
-<h3 align="center"> Front-End </h3>
+<h3 align="center"> My Stack </h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js" title="HTML5 - CSS3 - JAVASCRIPT"/>
-  </a>
-</p>
-
-<h3 align="center"> Back-End </h3>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,flask,mysql,php" title="JAVA  - SPRING  -  NODEJS  - PYTHON  -  FLASK  -  MYSQL -  PHP"/>
+    <img src="https://skillicons.dev/icons?i=c,cs,java,spring,python,flask,mysql,html,css,js,php,nodejs&perline=3" title="C, CSHARP - JAVA  - SPRING  -  PYTHON  -  FLASK  -  MYSQL -  HTML -  CSS  -  JS  -  PHP  -  NODEJS"/>
   </a>
 </p>
 <h3 align="center"> Github Stats </h3>
