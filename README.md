@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- Formado em Análise e desenvolvimento de sistemas.
-- Ampliando meu conhecimento em novas tecnologias.
   
 [![Linkedin: João Camargo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoccamargo/)](https://www.linkedin.com/in/joaoccamargo/)
 
