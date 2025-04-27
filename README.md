@@ -22,6 +22,7 @@ Frontend
 ![Bootstrap](https://img.shields.io/badge/-TailwindCSS-20232A?style=flat-square&logo=tailwind-css)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white)
 
 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
